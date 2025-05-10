@@ -1,4 +1,4 @@
-team_id_home,team_abbreviation_home,game_id,game_date,matchup_home,wl_home,fgm_home,fga_home,fg_pct_home,fg3m_home,fg3a_home,fg3_pct_home,ftm_home,fta_home,ft_pct_home,pts_home,team_id_away,team_abbreviation_away,wl_away,fgm_away,fga_away,fg_pct_away,fg3m_away,fg3a_away,fg3_pct_away,ftm_away,fta_away,ft_pct_away,pts_away
+team_id_home,home_team,game_id,game_date,matchup_home,wl_home,fgm_home,fga_home,fg_pct_home,fg3m_home,fg3a_home,fg3_pct_home,ftm_home,fta_home,ft_pct_home,pts_home,team_id_away,team_abbreviation_away,wl_away,fgm_away,fga_away,fg_pct_away,fg3m_away,fg3a_away,fg3_pct_away,ftm_away,fta_away,ft_pct_away,pts_away
 1610612738,BOS,20800001,28/10/2008 00:00,BOS vs. CLE,W,33,74,0.446,3,14,0.214,21,34,0.618,90,1610612739,CLE,L,29,68,0.426,3,15,0.2,24,33,0.727,85
 1610612747,LAL,20800003,28/10/2008 00:00,LAL vs. POR,W,37,79,0.468,7,10,0.7,15,18,0.833,96,1610612757,POR,L,29,84,0.345,10,24,0.417,8,14,0.571,76
 1610612741,CHI,20800002,28/10/2008 00:00,CHI vs. MIL,W,35,69,0.507,5,12,0.417,33,44,0.75,108,1610612749,MIL,L,37,78,0.474,6,14,0.429,15,20,0.75,95
